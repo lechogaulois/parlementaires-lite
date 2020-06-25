@@ -9,8 +9,7 @@ Les données se requêtent plus aisément dans une base de données que
 
 ## Récupérer la dernière base de données
 
-Vous pouvez y accéder soit directement sur ce dépôt avec le fichier `parlementaires.lite` ou en accédant à une 
-copie disponible sur [le serveur de l'écho gaulois](http://lechogaulois.fr/parlementaires.lite).
+Vous pouvez y accéder directement sur ce dépôt en téléchargeant le fichier `parlementaires.lite`.
 
 ## Les requêtes qui interrogent sur la transparence du débat public
 
