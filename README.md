@@ -2,15 +2,15 @@
 
 Les données se requêtent plus aisément dans une base de données que
  dans un ensemble de fichiers au formats éparses. Ce projet permet la transformation des 
- données mises à disposition par l'assemblée nationale Française au format JSON 
- en une base SQLite prête à l'emploi -- sous réserve de conservation du schéma de 
+ données mises à disposition par l'assemblée nationale française au format JSON 
+ en une base de données SQLite prête à l'emploi -- sous réserve de conservation du schéma de 
  données utilisé en 2020. Le périmètre couvert pour cette première version est celui de 
  l'historique des parlementaires et les organes auxquels ils ont pu participer.
 
 ## Récupérer la dernière base de données
 
-Vous pouvez y accéder soit directement sur ce dépôt avec le fichier `parlementaires.lite`. Ou en accédant à une 
-copie disponible sur le serveur ftp de l'écho gaulois et sur dat.
+Vous pouvez y accéder soit directement sur ce dépôt avec le fichier `parlementaires.lite` ou en accédant à une 
+copie disponible sur [le serveur de l'écho gaulois](http://lechogaulois.fr/parlementaires.lite).
 
 ## Les requêtes qui interrogent sur la transparence du débat public
 
