@@ -50,7 +50,7 @@ Chacun des enregistrements contient la source JSON associée.
 
 ![schéma de données](data/schema-bdd.png)
 
-## Quelques exemples de requêtes :
+## Quelques exemples de requêtes
 
 Liste des charges parlementaires : de leur suppléant, des échéances et du nombre de collaborateurs référencés :
 
@@ -140,7 +140,7 @@ where a.nom like '' and a.prenom like ''
 ```
 
 
-Charges parlementaires où le député est né ans le département associé (si le département est référencé) :
+Charges parlementaires où le député est né dans le département associé (si le département est référencé) :
 
 ```sql
 select a.prenom, a.nom, cp.departement, cp.chambre, cp.date_debut, cp.date_fin
